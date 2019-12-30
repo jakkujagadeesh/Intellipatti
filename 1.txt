@@ -1,0 +1,1 @@
+Git is version control system which used to track the changes in computer files and coordinated to work on those files among multiple people. Mainly used for source code managemnt in software development.
